@@ -1,0 +1,19 @@
+# MWAHAHA Humor Generation Pipeline - Dependencies
+
+# Core DSPy framework
+dspy-ai>=2.4.0
+
+# Google Generative AI SDK (for Gemini Flash - GIF analysis)
+google-generativeai>=0.8.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# HTTP requests (used by DSPy internally and GIF downloading)
+requests>=2.31.0
+
+# LiteLLM (unified LLM API interface, used by DSPy and directly in api.py)
+litellm>=1.40.0
+
+# Optional: For OpenRouter support
+openai>=1.0.0
