@@ -6,15 +6,14 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <a href="system%20description%20paper.pdf"><h3>📄 Read the System Description Paper (PDF)</h3></a>
+      <h3><a href="system%20description%20paper.pdf">📄 Read the System Description Paper (PDF)</a></h3>
     </td>
     <td align="center" width="50%">
-      <a href="#sample-outputs"><h3>✨ Jump to Sample Outputs</h3></a>
+      <h3><a href="#sample-outputs">✨ Jump to Sample Outputs</a></h3>
     </td>
   </tr>
 </table>
 <br>
-
 ---
 
 ## Table of Contents
