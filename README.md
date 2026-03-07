@@ -6,7 +6,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <h3><a href="system%20description%20paper.pdf">📄 Read the System Description Paper (PDF)</a></h3>
+      <h3><a href="System_description_paper.pdf">📄 Read the System Description Paper (PDF)</a></h3>
     </td>
     <td align="center" width="50%">
       <h3><a href="#sample-outputs">✨ Jump to Sample Outputs</a></h3>
