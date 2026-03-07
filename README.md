@@ -2,6 +2,19 @@
 
 > A structured LLM pipeline for **SemEval 2026 Task 1 — MWAHAHA** (*Models Write Automatic Humor And Humans Annotate*), grounded in the **General Theory of Verbal Humor (GTVH)**.
 
+<br>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="system%20description%20paper.pdf"><h3>📄 Read the System Description Paper (PDF)</h3></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="#sample-outputs"><h3>✨ Jump to Sample Outputs</h3></a>
+    </td>
+  </tr>
+</table>
+<br>
+
 ---
 
 ## Table of Contents
