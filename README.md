@@ -19,6 +19,17 @@
 ---
 
 
+## Publication
+
+**Published in the Proceedings of the 20th International Workshop on Semantic Evaluation (SemEval 2026).**
+
+Jatin Agrawal and Radhika Mamidi. *j10official at SemEval-2026 Task 1: Neurosymbolic Humor Generation via GTVH-Guided LLM Decomposition*, pages 3015–3026.
+
+[ACL Anthology](https://aclanthology.org/2026.semeval-1.379/) · [Published PDF](https://aclanthology.org/2026.semeval-1.379.pdf) · [DOI](https://doi.org/10.18653/v1/2026.semeval-1.379) · [Citation metadata](CITATION.cff) · [Google Scholar](https://scholar.google.com/citations?user=Pvycwx0AAAAJ&hl=en)
+
+The paper reports a DSPy pipeline with five stages and four independently generated candidates per input, placing **second in two subtasks**. Its submission used Gemma 3 27B. The repository supports configurable model/provider settings; consult the published paper for the evaluated submission configuration.
+
+
 ## Table of Contents
 
 - [Task Descriptions](#task-descriptions)
