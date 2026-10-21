@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the published paper listed below."
+title: "j10official at SemEval-2026 Task 1: Neurosymbolic Humor Generation via GTVH-Guided LLM Decomposition"
+type: software
+authors:
+  - family-names: Agrawal
+    given-names: Jatin
+  - family-names: Mamidi
+    given-names: Radhika
+url: "https://aclanthology.org/2026.semeval-1.379/"
+preferred-citation:
+  type: conference-paper
+  title: "j10official at SemEval-2026 Task 1: Neurosymbolic Humor Generation via GTVH-Guided LLM Decomposition"
+  authors:
+    - family-names: Agrawal
+      given-names: Jatin
+    - family-names: Mamidi
+      given-names: Radhika
+  year: 2026
+  collection-title: "Proceedings of the 20th International Workshop on Semantic Evaluation (2026)"
+  start: "3015"
+  end: "3026"
+  doi: "10.18653/v1/2026.semeval-1.379"
+  url: "https://aclanthology.org/2026.semeval-1.379/"
+  publisher:
+    name: Association for Computational Linguistics
